@@ -17,6 +17,6 @@ python 25.py
 - Opertaing system: Microsoft Windows 10 (10.0.19045)
 
 # Current status:
-P25
+P25 - P26
 
 
